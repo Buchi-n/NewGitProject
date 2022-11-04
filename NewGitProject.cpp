@@ -8,6 +8,8 @@ int main()
     std::cout << "Hello VisualStudio Git!\n";
    
     std::cout << "New Git Project\n";
+
+    std::cout << "third branch\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
